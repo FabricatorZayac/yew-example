@@ -1,6 +1,7 @@
 use yew::prelude::*;
 use yew_router::prelude::*;
 
+mod fetcher;
 mod hello;
 mod home;
 mod rest;
